@@ -9,6 +9,7 @@ Barring AP cap values, which are roughly 40 to 50% of the object's total HP, mos
 - 200 HP for ground vehicles
 - 100 HP for static deployables
 - 25 or 50 HP for active deployables
+- Most anti-tank weapons deal between 35 and 70 LBA damage.
 
 Your usage may vary. Consult region guidelines for what they permit.
 
