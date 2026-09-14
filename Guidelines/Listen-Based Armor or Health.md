@@ -10,7 +10,7 @@ Barring AP cap values, which are roughly 40 to 50% of the object's total HP, mos
 - 100 HP for static deployables
 - 25 or 50 HP for active deployables
 
-Your usage my vary. Consult region guidelines for what they permit.
+Your usage may vary. Consult region guidelines for what they permit.
 
 # What repos are available for LBA?
 The official repo is here: https://github.com/Krutchen/SLMCLBA
