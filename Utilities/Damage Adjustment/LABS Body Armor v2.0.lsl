@@ -1,4 +1,5 @@
 //LABS: Linden Armored-Body System
+//Data for armor types, resistances, authing, etc are all stored as experience keys. This script will not function if compiled outside of an experience with the values properly set up.
 //DATA KEYS
 list menu=["Ballistic","Thermal","Tesla","Plate","Flak"];
 string cver="LABSv2.0";//Current script version
