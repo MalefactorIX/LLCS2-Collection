@@ -1,3 +1,4 @@
+//This is the LBA component of the LBA Blast script or similar. It does not function on its own.
 float dmg=15.0;//Base LBA damage
 purge(integer hex,key targ, string name,string fdmg)
 {
